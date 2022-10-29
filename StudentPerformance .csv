@@ -1,0 +1,151 @@
+id_mhs,nama,jenis_kelamin,umur,jurusan,konsentrasi,asal,kos,uang_saku,paket_data,kendaraan,laptop,tipe_laptop,status_menikah,ip_sem1,ip_sem2,ip_sem3,ip_sem4,persentase_presensi,kacamata,gamer,durasi_sosmed (jam/hari),jumlah_akun_sosmed,clubbing,jumlah_org,score_toefl,jumlah_lomba,keadaan_ortu_divorced,romance,ukuran_sepatu,tinggi_badan,ipk,lulus_tepatwaktu
+1,Julianto,Pria,19,Informatika,Pemrograman,Yogyakarta,Tidak,200000,50000,Motor,Ya,ASUS,Tidak,4,3.9,3.75,3.8,97,Tidak,Ya,2,1,Tidak,2,92,3,Tidak,Ya,41,170,3.86,Ya
+2,Siti Muniroh,Wanita,19,Informatika,Jaringan,Jakarta,Ya,500000,70000,Mobil,Ya,MacBook,Ya,4,4,3.9,3.95,89,Ya,Tidak,3,1,Tidak,1,94,0,Tidak,Tidak,38,150,3.96,Ya
+3,Achmad Sandi,Pria,19,Informatika,Multimedia,Yogyakarta,Tidak,300000,100000,Motor,Ya,Acer,Tidak,3.9,3.6,3.7,3.5,97,Tidak,Ya,3,1,Tidak,1,90,3,Tidak,Ya,42,172,3.68,Tidak
+4,Adam Sautin,Pria,21,Informatika,Jaringan,Yogyakarta,Tidak,700000,100000,Sepeda,Ya,Lenovo,Tidak,4,3.6,3.5,3.65,97,Tidak,Ya,1,1,Tidak,2,93,2,Tidak,Ya,41,168,3.69,Tidak
+5,Ade R. S1rief,Pria,19,Informatika,Multimedia,Surabaya,Ya,800000,80000,Mobil,Ya,Macbook,Tidak,3.85,3.7,3.5,3.65,94,Tidak,Tidak,2,1,Tidak,2,112,3,Tidak,Ya,40,164,3.68,Tidak
+6,Ade Tjakralaksana,Pria,19,Informatika,Pemrograman,Depok,Ya,700000,50000,Mobil,Ya,MacBook,Tidak,4,3.9,3.75,3.89,100,Tidak,Ya,2,2,Tidak,2,95,0,Tidak,Tidak,39,159,3.89,Ya
+7,Adelina Putri,Wanita,26,Informatika,Pemrograman,Bandung,Ya,300000,40000,Motor,Tidak,0,Tidak,3.6,3.75,3.5,3.5,60,Tidak,Ya,6,4,Tidak,2,40,0,Tidak,Tidak,37,149,3.59,Tidak
+8,Adhi Utomo,Pria,19,Informatika,Multimedia,Semarang,Ya,500000,60000,Motor,Ya,Acer,Tidak,3.95,3.85,3.7,3.45,87,Tidak,Ya,3,1,Tidak,1,102,3,Tidak,Ya,38,157,3.74,Ya
+9,Amalia Aristiningsih,Wanita,21,Informatika,Multimedia,Maluku,Ya,800000,150000,Sepeda,Ya,HP,Tidak,3.8,3.2,3.8,3.6,90,Tidak,Ya,2,1,Tidak,0,99,0,Tidak,Tidak,40,147,3.6,Tidak
+10,Amaluddin Djambak,Pria,27,Informatika,Jaringan,Manado,Ya,700000,200000,Mobil,Ya,Toshiba,Tidak,3.3,3,3.8,3.8,55,Tidak,Ya,7,3,Tidak,3,63,0,Ya,Tidak,32,178,3.48,Tidak
+11,Aman,Pria,24,Informatika,Pemrograman,Palembang,Tidak,600000,175000,Sepeda,Ya,Dell,Tidak,3.2,3.3,3.3,3.7,46,Tidak,Ya,8,4,Tidak,3,67,0,Tidak,Tidak,34,154,3.38,Tidak
+12,Ameesh Anand,Pria,20,Informatika,Jaringan,Batam,Ya,1100000,90000,Motor,Ya,Acer,Tidak,3.6,3.7,3.8,3.3,92,Tidak,Tidak,1,1,Tidak,2,105,3,Tidak,Tidak,42,156,3.6,Tidak
+13,Amelia Kurniawan,Wanita,20,Informatika,Pemrograman,Pekanbaru,Tidak,500000,140000,Mobil,Ya,ASUS,Tidak,3,3.4,4,4,97,Tidak,Tidak,1,2,Tidak,1,95,2,Tidak,Tidak,43,150,3.6,Ya
+14,Andreas Tjahjadi,Pria,19,Informatika,Multimedia,Medan,Tidak,400000,40000,Sepeda,Tidak,0,Tidak,4,3.9,3.6,3.5,85,Tidak,Tidak,3,1,Tidak,1,115,2,Tidak,Tidak,44,172,3.75,Ya
+15,Andrew I Sriro,Pria,23,Informatika,Pemrograman,Makassar,Tidak,900000,120000,Sepeda,Ya,Lenovo,Tidak,3.6,3.1,3.5,3.6,60,Tidak,Tidak,5,3,Tidak,2,47,0,Tidak,Ya,32,157,3.45,Tidak
+16,Anton Wiratama,Pria,23,Informatika,Jaringan,Palembang,Ya,1200000,140000,Sepeda,Ya,Lenovo,Tidak,3,3.7,3,3.1,42,Tidak,Tidak,5,3,Ya,2,45,0,Tidak,Tidak,41,173,3.2,Tidak
+17,Antonius Mul1 Saputra,Pria,19,Informatika,Multimedia,Depok,Tidak,1300000,110000,Motor,Ya,HP,Tidak,4,3.6,3.7,3.6,94,Ya,Ya,2,1,Tidak,1,115,2,Tidak,Tidak,35,161,3.73,Ya
+18,Antony Gunawan,Pria,23,Informatika,Pemrograman,Bandung,Tidak,400000,130000,Motor,Ya,Macbook,Tidak,3.2,3.2,3.2,3.1,53,Tidak,Ya,7,3,Ya,2,57,0,Tidak,Tidak,40,189,3.18,Tidak
+19,Anuj Ralhan,Pria,22,Informatika,Multimedia,Jakarta,Tidak,400000,110000,Mobil,Ya,HP,Tidak,4,3.5,3.4,3.6,92,Tidak,Ya,3,2,Tidak,2,106,1,Tidak,Tidak,41,157,3.63,Tidak
+20,Anwar Lim,Pria,25,Informatika,Multimedia,Depok,Ya,600000,180000,Sepeda,Ya,MacBook,Tidak,4,3.2,3.3,3.2,51,Tidak,Tidak,4,5,Tidak,3,41,0,Tidak,Tidak,39,178,3.43,Tidak
+21,Anwar Saebe,Pria,27,Informatika,Jaringan,Bandung,Ya,1300000,190000,Sepeda,Ya,HP,Ya,3.8,3.1,3.2,3.2,44,Tidak,Tidak,7,5,Tidak,3,49,0,Tidak,Tidak,42,179,3.33,Tidak
+22,Budi Wid1di,Pria,24,Informatika,Pemrograman,Depok,Ya,300000,40000,Mobil,Ya,Acer,Tidak,3.4,3.2,3.1,3.7,44,Tidak,Ya,7,5,Tidak,2,56,0,Tidak,Tidak,36,176,3.35,Tidak
+23,Budi 1nto Lusli,Pria,27,Informatika,Multimedia,Semarang,Tidak,1400000,70000,Motor,Ya,Macbook,Tidak,4,3.1,3.3,3.7,49,Tidak,Tidak,4,5,Tidak,3,52,0,Tidak,Tidak,35,160,3.53,Tidak
+24,Budiarto Karim,Pria,27,Informatika,Pemrograman,Jakarta,Tidak,400000,40000,Mobil,Ya,MacBook,Tidak,3.9,3.3,3.2,3.2,40,Tidak,Tidak,4,4,Tidak,2,69,0,Tidak,Tidak,38,167,3.4,Tidak
+25,Budiawan Jusmin,Pria,23,Informatika,Jaringan,Yogyakarta,Ya,400000,160000,Sepeda,Ya,Toshiba,Tidak,3.1,3.2,3.1,3.6,52,Tidak,Ya,7,5,Ya,2,59,0,Tidak,Tidak,35,185,3.25,Tidak
+26,Carlos Tarazona Ramirez,Pria,23,Informatika,Pemrograman,Maluku,Ya,1400000,60000,Motor,Ya,Dell,Tidak,3,3.8,3.3,3.8,45,Tidak,Ya,8,5,Tidak,3,40,0,Tidak,Tidak,43,170,3.48,Tidak
+27,Caroline,Wanita,23,Informatika,Multimedia,Jakarta,Ya,400000,110000,Mobil,Ya,Dell,Tidak,3.4,3.4,3,3.8,56,Tidak,Tidak,5,5,Tidak,2,67,0,Tidak,Tidak,34,184,3.4,Tidak
+28,Catherine Gina Hambali,Wanita,25,Informatika,Pemrograman,Bandung,Tidak,900000,170000,Motor,Ya,Toshiba,Tidak,3.7,3.3,3.1,3.8,41,Ya,Ya,5,5,Tidak,2,63,0,Tidak,Tidak,35,180,3.48,Tidak
+29,Catherine Hambali,Wanita,26,Informatika,Multimedia,Medan,Tidak,1000000,120000,Motor,Ya,ASUS,Tidak,3.7,3.1,3.5,3.7,59,Tidak,Tidak,7,5,Tidak,3,40,0,Tidak,Tidak,43,155,3.5,Tidak
+30,Catherine Yoshawirja,Wanita,20,Informatika,Jaringan,Maluku,Ya,1200000,50000,Motor,Ya,Macbook,Tidak,3.5,4,3.5,4,89,Tidak,Ya,1,1,Tidak,2,111,4,Tidak,Tidak,32,187,3.75,Ya
+31,Deny Juliarto,Pria,25,Informatika,Jaringan,Surabaya,Tidak,400000,80000,Motor,Ya,Acer,Tidak,3.5,3.5,3.2,3.7,57,Tidak,Ya,5,3,Tidak,2,63,0,Tidak,Tidak,44,172,3.48,Tidak
+32,Dermawan,Pria,25,Informatika,Jaringan,Depok,Ya,1200000,140000,Sepeda,Ya,Acer,Tidak,3.8,3.6,3.1,3.3,47,Tidak,Ya,6,3,Tidak,3,52,0,Tidak,Tidak,37,140,3.45,Tidak
+33,Devi Tri Asmarasari,Wanita,25,Informatika,Jaringan,Yogyakarta,Ya,700000,120000,Mobil,Ya,MacBook,Tidak,3.3,3.8,3.2,3.2,47,Ya,Tidak,7,4,Tidak,2,58,0,Tidak,Tidak,38,145,3.38,Tidak
+34,Devie Hendrastiti Darmawan,Wanita,26,Informatika,Jaringan,Medan,Tidak,600000,110000,Mobil,Ya,Toshiba,Tidak,3.4,3.3,4,3.6,43,Tidak,Tidak,5,5,Tidak,2,42,0,Tidak,Ya,39,172,3.58,Tidak
+35,Devin Wirawan,Pria,26,Informatika,Multimedia,Jakarta,Ya,1000000,50000,Mobil,Ya,MacBook,Tidak,3.7,3,3.9,3.6,59,Tidak,Ya,7,5,Tidak,2,57,0,Tidak,Ya,33,145,3.55,Tidak
+36,Didit Budijarto,Pria,21,Informatika,Pemrograman,Manado,Ya,800000,140000,Mobil,Ya,Macbook,Tidak,3.9,3.8,3.1,3.9,88,Ya,Tidak,2,1,Tidak,2,116,0,Tidak,Ya,41,189,3.68,Ya
+37,Dina Eldelina Pow,Wanita,21,Informatika,Jaringan,Palembang,Tidak,1300000,120000,Motor,Ya,Lenovo,Tidak,3.6,3.9,3.1,3.8,94,Tidak,Ya,3,2,Tidak,2,91,1,Tidak,Ya,36,154,3.6,Tidak
+38,Diniwati,Wanita,24,Informatika,Multimedia,Semarang,Tidak,1100000,130000,Motor,Ya,Macbook,Tidak,3.8,3.4,3.1,3.7,54,Tidak,Ya,5,4,Tidak,2,69,0,Tidak,Ya,40,152,3.5,Tidak
+39,Edhie Hardjanto,Pria,27,Informatika,Jaringan,Maluku,Ya,700000,120000,Sepeda,Ya,Toshiba,Tidak,3.2,3.2,3.7,3.1,53,Tidak,Ya,4,5,Tidak,2,55,0,Tidak,Ya,43,189,3.3,Tidak
+40,Edi Firmans1h,Pria,22,Informatika,Pemrograman,Palembang,Ya,1400000,190000,Mobil,Ya,Macbook,Tidak,4,3.3,4,4,92,Tidak,Ya,1,1,Tidak,0,99,2,Tidak,Tidak,39,181,3.83,Ya
+41,Edianto Prasetyo,Pria,26,Informatika,Jaringan,Manado,Ya,1300000,60000,Mobil,Ya,ASUS,Tidak,3.1,3.6,3.3,3.9,49,Tidak,Tidak,4,5,Tidak,3,45,0,Tidak,Tidak,43,169,3.48,Tidak
+42,Edo Djunaydi,Pria,23,Informatika,Multimedia,Pekanbaru,Ya,1200000,60000,Motor,Tidak,0,Tidak,3,3.3,3.7,3,59,Tidak,Ya,8,5,Ya,3,68,0,Tidak,Tidak,35,186,3.25,Tidak
+43,Edoardus Ardianto,Pria,21,Informatika,Pemrograman,Surabaya,Ya,1300000,60000,Sepeda,Ya,Acer,Tidak,4,3.8,3,3.6,89,Tidak,Ya,3,1,Tidak,2,118,4,Tidak,Tidak,37,163,3.6,Ya
+44,Edward Ang,Pria,20,Informatika,Pemrograman,Yogyakarta,Ya,1100000,70000,Motor,Ya,ASUS,Tidak,3.8,3.6,4,3.4,91,Tidak,Tidak,1,1,Tidak,2,93,3,Tidak,Tidak,38,144,3.7,Ya
+45,Enny Trang,Wanita,26,Informatika,Pemrograman,Medan,Tidak,800000,150000,Motor,Ya,Dell,Tidak,3,3.6,3.4,3.6,56,Tidak,Tidak,7,5,Tidak,2,65,0,Tidak,Tidak,35,181,3.4,Tidak
+46,Entario Widjaja Susanto,Pria,27,Informatika,Jaringan,Pekanbaru,Ya,200000,40000,Motor,Ya,ASUS,Tidak,3.2,3,3.9,3.9,46,Tidak,Ya,7,3,Tidak,3,60,0,Tidak,Tidak,37,176,3.5,Tidak
+47,Era Helvani,Wanita,24,Informatika,Pemrograman,Pekanbaru,Ya,500000,150000,Mobil,Ya,Lenovo,Tidak,4,3,3,3.4,55,Tidak,Ya,6,5,Tidak,2,47,0,Ya,Tidak,43,180,3.35,Tidak
+48,Eric Hardono Tirtajasa,Pria,20,Informatika,Jaringan,Palembang,Tidak,900000,70000,Sepeda,Ya,Macbook,Tidak,3.1,3.8,3.6,3.9,97,Tidak,Tidak,1,1,Tidak,0,119,2,Tidak,Tidak,44,177,3.6,Tidak
+49,Firman Matondang Silalahi,Pria,26,Informatika,Multimedia,Jakarta,Tidak,300000,70000,Sepeda,Ya,Macbook,Tidak,4,3.2,3.3,3.5,46,Tidak,Tidak,8,4,Tidak,3,52,0,Tidak,Tidak,32,162,3.5,Tidak
+50,Fitri Wiriasari,Wanita,19,Informatika,Pemrograman,Medan,Ya,1200000,70000,Motor,Ya,Acer,Tidak,3.7,3.8,4,3,98,Tidak,Tidak,3,1,Tidak,1,114,4,Tidak,Tidak,37,145,3.63,Ya
+51,Imelda Dharma,Wanita,24,Informatika,Pemrograman,Bandung,Tidak,500000,140000,Mobil,Ya,Toshiba,Tidak,3.7,3.2,3.4,4,53,Tidak,Tidak,6,4,Tidak,2,59,0,Tidak,Tidak,36,189,3.58,Tidak
+52,Ina Irena Jonas Jahja,Wanita,25,Informatika,Jaringan,Surabaya,Ya,600000,80000,Motor,Ya,Lenovo,Tidak,3.3,3.3,3.3,3,60,Tidak,Ya,6,5,Ya,3,70,0,Tidak,Tidak,42,165,3.23,Tidak
+53,Ina1t Ali Badruddin,Pria,25,Informatika,Jaringan,Maluku,Tidak,900000,70000,Mobil,Ya,Toshiba,Tidak,3.3,3.1,3.4,3.4,55,Tidak,Ya,4,3,Tidak,2,69,0,Tidak,Tidak,34,158,3.3,Tidak
+54,Inda Ar1nti Imanto,Wanita,20,Informatika,Pemrograman,Manado,Tidak,500000,140000,Sepeda,Ya,MacBook,Tidak,3.8,3.7,4,3.3,96,Tidak,Tidak,3,1,Tidak,1,90,4,Tidak,Tidak,38,180,3.7,Ya
+55,Indah Djuita Tjatursari,Wanita,27,Informatika,Multimedia,Batam,Tidak,200000,120000,Sepeda,Ya,ASUS,Tidak,3.8,3.1,3.1,3.6,44,Tidak,Ya,6,3,Tidak,3,55,0,Tidak,Tidak,34,156,3.4,Tidak
+56,Indahwaty Hartono,Wanita,26,Informatika,Jaringan,Pekanbaru,Ya,1300000,60000,Mobil,Ya,Macbook,Tidak,3,3,3.9,3.9,54,Tidak,Ya,4,4,Tidak,3,49,0,Tidak,Ya,34,149,3.45,Tidak
+57,Kiki Sutantyo,Wanita,23,Informatika,Pemrograman,Surabaya,Tidak,500000,140000,Mobil,Ya,ASUS,Tidak,3.1,3.8,3.1,3.1,42,Tidak,Ya,4,5,Ya,3,69,0,Tidak,Tidak,35,143,3.28,Tidak
+58,Kim Doo Young,Pria,23,Informatika,Pemrograman,Maluku,Tidak,200000,190000,Mobil,Ya,HP,Tidak,3.4,3.8,3.5,3.4,46,Tidak,Tidak,8,3,Tidak,3,57,0,Tidak,Tidak,43,172,3.53,Tidak
+59,Marcellus Charles Colondam,Pria,20,Informatika,Pemrograman,Palembang,Tidak,400000,140000,Motor,Ya,Acer,Tidak,4,3.6,3.8,3.7,87,Tidak,Tidak,2,1,Tidak,1,119,0,Tidak,Ya,38,154,3.78,Ya
+60,Marcellyna Junita Widjaja,Wanita,23,Informatika,Pemrograman,Pekanbaru,Tidak,900000,110000,Sepeda,Ya,Lenovo,Tidak,3,3.4,3.8,3.5,48,Tidak,Ya,4,3,Tidak,2,59,0,Tidak,Tidak,35,146,3.43,Tidak
+61,Omar Cole,Pria,23,Informatika,Jaringan,Palembang,Ya,600000,150000,Sepeda,Ya,HP,Tidak,3.7,3.4,3.9,3.1,50,Ya,Tidak,6,4,Tidak,2,52,0,Tidak,Tidak,37,169,3.53,Tidak
+62,Allen Rush,Wanita,23,Informatika,Pemrograman,Batam,Tidak,200000,60000,Motor,Ya,Macbook,Tidak,3.8,3.1,3.9,3,58,Tidak,Ya,5,5,Tidak,3,47,0,Tidak,Tidak,37,150,3.45,Tidak
+63,Eileen Dorsey,Wanita,24,Informatika,Pemrograman,Semarang,Tidak,300000,180000,Motor,Ya,Acer,Tidak,3,3.7,3.7,3.9,50,Tidak,Tidak,5,4,Tidak,2,42,0,Tidak,Ya,37,145,3.58,Tidak
+64,Misael Ortiz,Pria,27,Informatika,Jaringan,Manado,Ya,800000,50000,Motor,Ya,Dell,Tidak,3.1,3.4,3.2,4,58,Ya,Tidak,7,3,Tidak,3,49,0,Tidak,Tidak,39,179,3.43,Tidak
+65,Roy Daniel,Pria,27,Informatika,Pemrograman,Semarang,Ya,700000,100000,Mobil,Ya,Acer,Tidak,3.8,3.1,3,3.5,56,Ya,Ya,5,3,Tidak,2,47,0,Tidak,Tidak,44,185,3.35,Tidak
+66,Cynthia Benitez,Wanita,19,Informatika,Jaringan,Manado,Ya,600000,190000,Motor,Tidak,0,Tidak,3.7,3.8,3.4,3.7,90,Ya,Ya,1,1,Tidak,0,90,1,Tidak,Tidak,43,183,3.65,Tidak
+67,Cason Long,Pria,23,Informatika,Pemrograman,Medan,Ya,1100000,150000,Sepeda,Ya,Lenovo,Tidak,3.8,3.1,3,3.6,54,Tidak,Ya,5,4,Tidak,3,67,0,Tidak,Tidak,42,185,3.38,Tidak
+68,1smin Padilla,Wanita,23,Informatika,Pemrograman,Medan,Ya,1000000,170000,Sepeda,Ya,ASUS,Tidak,3.4,3.3,3.3,3.2,49,Tidak,Ya,5,4,Tidak,2,48,0,Tidak,Tidak,32,182,3.3,Tidak
+69,Catalina Mccarthy,Wanita,27,Informatika,Multimedia,Palembang,Tidak,400000,60000,Mobil,Ya,MacBook,Tidak,3.6,3.3,3,3.5,45,Tidak,Tidak,6,4,Tidak,3,70,0,Tidak,Tidak,36,176,3.35,Tidak
+70,Sofia Reese,Wanita,23,Informatika,Multimedia,Palembang,Ya,1400000,110000,Motor,Ya,Macbook,Tidak,3.1,3.5,3.2,3.1,44,Tidak,Ya,8,3,Ya,2,61,0,Tidak,Tidak,41,168,3.23,Tidak
+71,Addyson Church,Wanita,27,Informatika,Pemrograman,Yogyakarta,Ya,1100000,120000,Sepeda,Ya,Macbook,Tidak,4,3.2,4,3.1,45,Tidak,Ya,6,4,Tidak,2,40,0,Tidak,Tidak,43,164,3.58,Tidak
+72,Leonidas Day,Pria,27,Informatika,Pemrograman,Bandung,Ya,500000,130000,Sepeda,Ya,MacBook,Tidak,3.5,3.8,3.1,3.9,59,Tidak,Tidak,8,4,Tidak,2,58,0,Tidak,Tidak,33,184,3.58,Tidak
+73,Dominic Mcknight,Pria,24,Informatika,Pemrograman,Bandung,Tidak,1000000,70000,Mobil,Ya,MacBook,Tidak,3.8,3.8,3.3,3.1,42,Tidak,Ya,5,5,Tidak,3,68,0,Tidak,Tidak,40,148,3.5,Tidak
+74,Jax Johnson,Pria,26,Informatika,Multimedia,Batam,Tidak,200000,130000,Sepeda,Ya,ASUS,Ya,3.9,3.9,3,3.1,49,Tidak,Tidak,6,5,Tidak,3,57,0,Tidak,Tidak,42,163,3.48,Tidak
+75,India Navarro,Pria,27,Informatika,Pemrograman,Palembang,Tidak,800000,40000,Sepeda,Ya,Toshiba,Tidak,3.4,3,3.1,3,51,Ya,Tidak,4,3,Ya,2,47,0,Tidak,Tidak,34,170,3.13,Tidak
+76,Andrea Leach,Pria,24,Informatika,Multimedia,Depok,Tidak,1400000,130000,Motor,Ya,Dell,Tidak,3.4,4,3.1,3.8,46,Tidak,Tidak,8,4,Tidak,3,50,0,Tidak,Tidak,35,164,3.58,Tidak
+77,Emely Frank,Wanita,20,Informatika,Jaringan,Palembang,Ya,200000,150000,Mobil,Ya,HP,Tidak,3.9,3,4,3.5,98,Tidak,Tidak,1,2,Tidak,0,116,3,Tidak,Tidak,42,151,3.6,Tidak
+78,Leticia Kaiser,Wanita,24,Informatika,Pemrograman,Pekanbaru,Ya,300000,60000,Mobil,Ya,Acer,Tidak,3.6,3.5,3.1,4,54,Tidak,Ya,8,5,Tidak,3,53,0,Tidak,Tidak,36,154,3.55,Tidak
+79,Harry Velez,Pria,27,Informatika,Pemrograman,Batam,Tidak,1300000,60000,Motor,Ya,HP,Tidak,3.2,4,3.6,3.4,43,Tidak,Tidak,8,5,Tidak,2,46,0,Tidak,Tidak,35,153,3.55,Tidak
+80,Eleanor Williams,Wanita,23,Informatika,Multimedia,Yogyakarta,Tidak,500000,180000,Sepeda,Ya,HP,Tidak,3,3.7,3.5,3.2,49,Tidak,Tidak,7,3,Tidak,2,60,0,Tidak,Tidak,37,147,3.35,Tidak
+81,Abel Odom,Pria,21,Informatika,Pemrograman,Pekanbaru,Ya,1200000,50000,Motor,Ya,ASUS,Tidak,3.4,3.7,3.6,3.8,93,Tidak,Ya,2,2,Tidak,1,103,1,Tidak,Tidak,37,153,3.63,Ya
+82,Heather Burton,Pria,25,Informatika,Multimedia,Surabaya,Ya,400000,150000,Motor,Ya,Macbook,Tidak,3.6,3.5,3.6,3.1,55,Ya,Ya,4,4,Tidak,2,68,0,Tidak,Tidak,42,162,3.45,Tidak
+83,Reagan Hebert,Pria,27,Informatika,Pemrograman,Semarang,Tidak,300000,170000,Mobil,Ya,Acer,Tidak,3.4,4,3,3.4,60,Tidak,Ya,4,5,Tidak,2,56,0,Tidak,Tidak,37,177,3.45,Tidak
+84,Celeste Lara,Wanita,26,Informatika,Pemrograman,Palembang,Ya,600000,50000,Motor,Ya,HP,Tidak,3.5,3.4,3.4,3.8,42,Tidak,Tidak,5,3,Tidak,2,56,0,Tidak,Tidak,44,147,3.53,Tidak
+85,Mason Avery,Wanita,25,Informatika,Pemrograman,Batam,Tidak,1100000,110000,Sepeda,Ya,Dell,Tidak,3,4,3,3.8,40,Tidak,Ya,7,5,Tidak,2,48,0,Ya,Tidak,35,162,3.45,Tidak
+86,Jasper Roman,Pria,22,Informatika,Jaringan,Yogyakarta,Ya,500000,110000,Mobil,Ya,Lenovo,Ya,3.3,3.6,3.8,4,92,Tidak,Ya,3,2,Tidak,2,91,3,Tidak,Tidak,40,176,3.68,Tidak
+87,Luz Patton,Wanita,21,Informatika,Pemrograman,Depok,Tidak,800000,170000,Sepeda,Ya,Dell,Tidak,3.4,4,4,3.6,89,Tidak,Tidak,1,1,Tidak,0,106,4,Tidak,Tidak,41,143,3.75,Ya
+88,Sullivan Middleton,Wanita,25,Informatika,Pemrograman,Pekanbaru,Tidak,800000,50000,Mobil,Ya,Dell,Tidak,3.5,3,3.4,3.2,50,Ya,Ya,7,5,Ya,2,47,0,Tidak,Tidak,35,158,3.28,Tidak
+89,Asa Kirk,Pria,27,Informatika,Jaringan,Surabaya,Tidak,1400000,50000,Sepeda,Ya,HP,Tidak,3,3.1,3.4,3.1,59,Ya,Tidak,8,4,Ya,3,47,0,Tidak,Tidak,37,174,3.15,Tidak
+90,Noelle Bradford,Pria,21,Informatika,Jaringan,Pekanbaru,Tidak,1400000,180000,Sepeda,Ya,Macbook,Tidak,4,3.4,3.8,3.4,85,Tidak,Ya,2,1,Tidak,1,90,0,Tidak,Tidak,35,180,3.65,Tidak
+91,Shirley Best,Wanita,22,Informatika,Multimedia,Batam,Ya,600000,40000,Sepeda,Ya,Macbook,Tidak,3.3,3.8,3.8,3.7,88,Tidak,Ya,1,2,Tidak,1,107,2,Tidak,Tidak,41,170,3.65,Tidak
+92,Brenton Navarro,Pria,26,Informatika,Jaringan,Maluku,Ya,800000,180000,Sepeda,Ya,Toshiba,Tidak,3.1,3.2,3.1,3.4,50,Tidak,Tidak,4,3,Ya,3,58,0,Tidak,Tidak,40,142,3.2,Tidak
+93,Meghan Bass,Wanita,20,Informatika,Pemrograman,Medan,Ya,500000,50000,Motor,Ya,Lenovo,Tidak,3.5,4,3.4,3.5,93,Tidak,Tidak,2,1,Tidak,1,101,2,Tidak,Tidak,44,162,3.6,Ya
+94,Ani1h Barber,Wanita,24,Informatika,Multimedia,Semarang,Tidak,200000,90000,Motor,Ya,Acer,Tidak,3.4,3.5,3.8,3,44,Tidak,Ya,8,4,Tidak,3,70,0,Tidak,Tidak,36,157,3.43,Tidak
+95,Ansley Taylor,Wanita,21,Informatika,Jaringan,Batam,Ya,300000,120000,Sepeda,Ya,Macbook,Tidak,3.6,3.2,3.9,4,100,Tidak,Tidak,2,2,Tidak,2,108,2,Tidak,Tidak,35,190,3.68,Tidak
+96,Ellis Reyes,Wanita,25,Informatika,Multimedia,Maluku,Tidak,1000000,130000,Sepeda,Ya,Acer,Tidak,3.9,3.2,3,4,46,Tidak,Ya,5,5,Tidak,2,69,0,Tidak,Tidak,34,151,3.53,Tidak
+97,Nikhil Berg,Pria,24,Informatika,Multimedia,Semarang,Ya,1300000,120000,Motor,Tidak,0,Tidak,3,3,3.1,4,47,Tidak,Tidak,4,5,Ya,2,57,0,Tidak,Tidak,37,176,3.28,Tidak
+98,Jordan Chavez,Pria,25,Informatika,Jaringan,Palembang,Ya,1100000,50000,Sepeda,Ya,Lenovo,Tidak,3.2,3.1,3.5,3.3,44,Tidak,Tidak,8,3,Ya,3,54,0,Tidak,Ya,42,179,3.28,Tidak
+99,Ainsley Morris,Pria,24,Informatika,Jaringan,Bandung,Tidak,1300000,90000,Motor,Ya,Macbook,Tidak,3,3.8,3,3.9,49,Tidak,Tidak,5,4,Tidak,2,55,0,Tidak,Tidak,32,182,3.43,Tidak
+100,Jaylah James,Pria,22,Informatika,Jaringan,Yogyakarta,Ya,1200000,160000,Motor,Ya,MacBook,Tidak,3,3.9,3.5,4,87,Ya,Ya,1,1,Tidak,2,92,0,Tidak,Tidak,33,175,3.6,Tidak
+101,Brayden Haynes,Pria,22,Informatika,Multimedia,Batam,Tidak,600000,50000,Motor,Ya,Acer,Tidak,3.2,4,3.4,3.8,85,Tidak,Ya,2,2,Tidak,1,117,0,Tidak,Ya,38,170,3.6,Tidak
+102,Jaslene Andrews,Wanita,26,Informatika,Pemrograman,Surabaya,Ya,800000,100000,Motor,Ya,Toshiba,Tidak,3.9,3.4,3.4,3,54,Tidak,Tidak,5,4,Tidak,3,70,0,Tidak,Tidak,38,158,3.43,Tidak
+103,Curtis Fitzpatrick,Wanita,22,Informatika,Multimedia,Semarang,Ya,1200000,120000,Mobil,Tidak,0,Tidak,3.7,3.2,3.9,3.7,97,Tidak,Tidak,3,2,Tidak,2,97,0,Tidak,Tidak,38,165,3.63,Tidak
+104,Quentin Mendez,Pria,19,Informatika,Pemrograman,Batam,Ya,600000,180000,Mobil,Ya,Macbook,Tidak,3.9,3.4,3.9,3.7,95,Ya,Tidak,2,1,Tidak,0,93,2,Tidak,Tidak,40,140,3.73,Ya
+105,Marianna Cortez,Wanita,21,Informatika,Jaringan,Medan,Ya,500000,70000,Mobil,Ya,Macbook,Tidak,4,3.7,3.4,3.3,89,Tidak,Ya,3,1,Tidak,0,113,3,Tidak,Tidak,32,181,3.6,Tidak
+106,Rylie Everett,Pria,22,Informatika,Jaringan,Palembang,Tidak,400000,50000,Mobil,Ya,ASUS,Tidak,3.7,3.3,3.8,3.6,94,Tidak,Ya,1,1,Tidak,0,110,2,Tidak,Tidak,35,169,3.6,Tidak
+107,Lorenzo Hammond,Pria,25,Informatika,Pemrograman,Jakarta,Ya,1000000,140000,Sepeda,Ya,Macbook,Tidak,3.1,3.4,3.8,3.3,49,Tidak,Ya,8,3,Tidak,2,65,0,Tidak,Tidak,41,186,3.4,Tidak
+108,Tristen Johnston,Pria,26,Informatika,Pemrograman,Yogyakarta,Ya,1000000,150000,Motor,Ya,Acer,Tidak,3.2,3.3,3.9,3.6,59,Tidak,Tidak,5,3,Tidak,3,47,0,Tidak,Ya,37,164,3.5,Tidak
+109,Brielle Grant,Wanita,19,Informatika,Jaringan,Medan,Ya,600000,150000,Mobil,Ya,ASUS,Tidak,3.4,3.3,3.7,4,97,Tidak,Ya,3,2,Tidak,1,107,2,Ya,Tidak,44,147,3.6,Tidak
+110,Jeramiah Brewer,Wanita,27,Informatika,Jaringan,Bandung,Ya,1000000,170000,Sepeda,Ya,Dell,Tidak,3.2,3.7,3.6,3.1,57,Ya,Tidak,8,4,Tidak,3,69,0,Tidak,Tidak,42,159,3.4,Tidak
+111,Jase Heath,Pria,25,Informatika,Pemrograman,Batam,Tidak,1300000,130000,Motor,Ya,MacBook,Tidak,3.1,4,3,3.2,58,Tidak,Ya,6,3,Tidak,3,68,0,Tidak,Tidak,35,188,3.33,Tidak
+112,Ariana Skinner,Wanita,26,Informatika,Pemrograman,Yogyakarta,Tidak,400000,40000,Mobil,Ya,Macbook,Ya,3.1,3.1,3.6,3.8,49,Tidak,Tidak,7,5,Tidak,2,48,0,Tidak,Tidak,42,187,3.4,Tidak
+113,Kobe Branch,Wanita,24,Informatika,Pemrograman,Depok,Ya,800000,160000,Mobil,Ya,Acer,Tidak,3.2,3.1,3.7,4,59,Tidak,Ya,4,4,Tidak,2,63,0,Tidak,Tidak,43,175,3.5,Tidak
+114,Jordyn Booker,Pria,23,Informatika,Multimedia,Batam,Tidak,600000,110000,Sepeda,Ya,Macbook,Tidak,3.4,3.1,3.1,3.8,52,Tidak,Tidak,4,5,Tidak,3,41,0,Tidak,Tidak,44,168,3.35,Tidak
+115,Moises Benjamin,Pria,26,Informatika,Multimedia,Pekanbaru,Tidak,600000,150000,Sepeda,Ya,MacBook,Tidak,3.8,4,3.1,3.1,59,Ya,Tidak,6,5,Tidak,3,59,0,Tidak,Tidak,32,149,3.5,Tidak
+116,Kaiden Clark,Wanita,23,Informatika,Pemrograman,Maluku,Tidak,1300000,120000,Sepeda,Ya,Lenovo,Tidak,3.6,3.4,3.5,3.7,56,Tidak,Ya,6,3,Tidak,2,51,0,Tidak,Tidak,43,172,3.55,Tidak
+117,Jaylin Schwartz,Pria,24,Informatika,Multimedia,Semarang,Ya,300000,180000,Mobil,Ya,Acer,Tidak,3.4,3.8,3.1,3.8,46,Tidak,Ya,8,4,Tidak,2,68,0,Tidak,Tidak,32,143,3.53,Tidak
+118,Mikaela Oneill,Wanita,21,Informatika,Pemrograman,Surabaya,Ya,1400000,190000,Sepeda,Ya,HP,Tidak,3.8,3.2,3.9,3.8,89,Tidak,Tidak,2,2,Tidak,1,97,2,Tidak,Tidak,33,175,3.68,Ya
+119,Dylan Blair,Wanita,25,Informatika,Jaringan,Semarang,Ya,300000,170000,Sepeda,Ya,MacBook,Tidak,3,3.3,3.1,3.2,55,Tidak,Ya,6,3,Ya,2,63,0,Tidak,Tidak,42,182,3.15,Tidak
+120,Tatum Perkins,Wanita,23,Informatika,Pemrograman,Bandung,Tidak,1100000,80000,Sepeda,Ya,Dell,Tidak,3,3.6,3.6,3,50,Tidak,Tidak,7,3,Tidak,3,69,0,Tidak,Tidak,43,140,3.3,Tidak
+121,Kolton Mendoza,Wanita,22,Informatika,Jaringan,Bandung,Tidak,1300000,150000,Mobil,Ya,MacBook,Tidak,3.2,3.4,3.8,4,85,Tidak,Ya,3,2,Tidak,1,96,0,Tidak,Tidak,32,184,3.6,Tidak
+122,Jonathan Hunt,Pria,26,Informatika,Pemrograman,Manado,Tidak,1100000,180000,Motor,Ya,ASUS,Tidak,3.5,3.1,3.6,3.6,49,Tidak,Tidak,6,5,Tidak,3,68,0,Tidak,Tidak,34,163,3.45,Tidak
+123,Jessica Hall,Pria,25,Informatika,Jaringan,Batam,Ya,900000,170000,Motor,Ya,HP,Tidak,3,3.6,3.4,3.3,52,Tidak,Tidak,6,3,Tidak,3,59,0,Tidak,Tidak,40,172,3.33,Tidak
+124,Linda Pitts,Pria,24,Informatika,Multimedia,Maluku,Ya,1000000,150000,Sepeda,Ya,Toshiba,Tidak,4,3.2,3.8,3.2,58,Tidak,Tidak,5,5,Tidak,3,62,0,Tidak,Tidak,33,156,3.55,Tidak
+125,Maxim Stanley,Pria,23,Informatika,Pemrograman,Depok,Tidak,600000,110000,Sepeda,Ya,ASUS,Tidak,3.3,3.6,3.8,3.2,55,Tidak,Tidak,5,4,Tidak,3,70,0,Tidak,Tidak,40,189,3.48,Tidak
+126,Nataly Scott,Pria,22,Informatika,Multimedia,Surabaya,Tidak,800000,160000,Mobil,Ya,Lenovo,Tidak,3.7,3.6,3.3,3.8,98,Ya,Ya,1,1,Tidak,1,115,4,Tidak,Tidak,40,163,3.6,Tidak
+127,Armando Vega,Wanita,20,Informatika,Multimedia,Manado,Tidak,300000,60000,Motor,Ya,MacBook,Tidak,3.1,3.7,4,3.6,87,Tidak,Ya,2,2,Tidak,1,116,0,Tidak,Tidak,40,177,3.6,Tidak
+128,Zack Osborne,Wanita,23,Informatika,Jaringan,Medan,Ya,700000,140000,Motor,Ya,MacBook,Tidak,3.2,3.9,3.5,3.1,42,Tidak,Tidak,5,4,Tidak,3,66,0,Tidak,Tidak,37,165,3.43,Tidak
+129,Valery Erickson,Pria,26,Informatika,Jaringan,Manado,Ya,1100000,120000,Mobil,Ya,HP,Tidak,3.3,3.8,3.5,3,53,Tidak,Tidak,7,5,Tidak,3,42,0,Tidak,Tidak,43,159,3.4,Tidak
+130,Laila Shea,Wanita,25,Informatika,Pemrograman,Palembang,Tidak,1100000,180000,Mobil,Ya,Toshiba,Tidak,3.6,3.9,3.2,3.2,48,Ya,Tidak,5,3,Tidak,2,50,0,Tidak,Tidak,43,154,3.48,Tidak
+131,Mollie Dillon,Pria,23,Informatika,Jaringan,Semarang,Ya,1100000,70000,Mobil,Ya,HP,Tidak,3.1,3.1,3.9,3.5,52,Tidak,Ya,4,5,Tidak,3,42,0,Ya,Tidak,37,174,3.4,Tidak
+132,Tan1 George,Pria,27,Informatika,Pemrograman,Palembang,Ya,1400000,80000,Mobil,Ya,ASUS,Tidak,3.4,3.5,3,3.4,52,Tidak,Tidak,5,5,Tidak,2,60,0,Tidak,Tidak,34,160,3.33,Tidak
+133,Jensen Shields,Pria,24,Informatika,Multimedia,Palembang,Ya,500000,150000,Mobil,Ya,MacBook,Tidak,3.8,3.4,3.1,4,45,Tidak,Tidak,8,3,Tidak,3,47,0,Tidak,Tidak,42,181,3.58,Tidak
+134,Trace Sweeney,Wanita,24,Informatika,Jaringan,Palembang,Ya,500000,100000,Motor,Ya,Toshiba,Tidak,3.1,3.4,3.7,3,44,Ya,Ya,7,4,Tidak,3,50,0,Tidak,Tidak,33,186,3.3,Tidak
+135,Jovanni Spence,Wanita,27,Informatika,Jaringan,Yogyakarta,Tidak,400000,190000,Sepeda,Ya,Lenovo,Tidak,3.9,3.5,3,3.2,42,Tidak,Tidak,5,5,Tidak,2,68,0,Tidak,Tidak,44,182,3.4,Tidak
+136,Marvin Duffy,Pria,24,Informatika,Multimedia,Surabaya,Tidak,200000,170000,Sepeda,Ya,Lenovo,Tidak,3.3,3,3.7,3.3,41,Tidak,Ya,5,3,Tidak,2,68,0,Tidak,Ya,34,150,3.33,Tidak
+137,Tristen Steele,Wanita,22,Informatika,Jaringan,Depok,Tidak,1000000,160000,Motor,Ya,Toshiba,Tidak,3.4,3.3,4,4,88,Tidak,Ya,3,2,Tidak,1,90,2,Tidak,Tidak,40,166,3.68,Tidak
+138,Eliza Harding,Wanita,27,Informatika,Pemrograman,Manado,Tidak,1200000,170000,Mobil,Tidak,0,Tidak,3.2,3.6,3.7,3.4,42,Tidak,Ya,5,4,Tidak,3,63,0,Ya,Tidak,36,181,3.48,Tidak
+139,Sonia Trevino,Pria,23,Informatika,Jaringan,Manado,Ya,1400000,190000,Motor,Ya,Macbook,Tidak,3.1,3.6,3.2,3,57,Tidak,Tidak,8,3,Ya,3,41,0,Tidak,Tidak,40,176,3.23,Tidak
+140,Solomon Haney,Pria,26,Informatika,Multimedia,Jakarta,Ya,200000,180000,Mobil,Ya,Acer,Tidak,3.3,3.8,3.5,3.6,54,Tidak,Ya,6,3,Tidak,2,55,0,Tidak,Tidak,36,182,3.55,Tidak
+141,Savannah Becker,Wanita,26,Informatika,Multimedia,Semarang,Ya,1400000,110000,Motor,Ya,MacBook,Tidak,3.5,3.5,3.3,4,59,Tidak,Ya,6,3,Tidak,3,64,0,Tidak,Tidak,34,170,3.58,Tidak
+142,Nathalia Chambers,Pria,21,Informatika,Jaringan,Manado,Tidak,500000,40000,Motor,Ya,Dell,Tidak,3.4,3.2,3.9,3.9,96,Tidak,Tidak,1,2,Tidak,2,118,2,Tidak,Tidak,38,149,3.6,Tidak
+143,Kali Guerra,Wanita,26,Informatika,Multimedia,Maluku,Ya,1000000,140000,Mobil,Ya,Lenovo,Ya,3.9,3.4,3.1,3.7,55,Tidak,Tidak,4,5,Tidak,3,44,0,Tidak,Tidak,42,144,3.53,Tidak
+144,Natalie Velez,Wanita,24,Informatika,Jaringan,Semarang,Tidak,600000,190000,Mobil,Ya,HP,Tidak,3.8,3.8,3.5,3.2,42,Tidak,Tidak,7,5,Tidak,2,57,0,Tidak,Tidak,41,160,3.58,Tidak
+145,August Mejia,Wanita,23,Informatika,Pemrograman,Jakarta,Tidak,500000,190000,Sepeda,Ya,HP,Tidak,3,3.6,3.3,3,48,Ya,Ya,4,3,Ya,2,59,0,Tidak,Ya,32,141,3.23,Tidak
+146,Agustin Herman,Wanita,27,Informatika,Jaringan,Yogyakarta,Tidak,300000,80000,Sepeda,Ya,ASUS,Tidak,3.8,3.3,3.4,3.2,41,Tidak,Ya,7,5,Tidak,3,70,0,Tidak,Tidak,36,169,3.43,Tidak
+147,Kelly Brewer,Pria,23,Informatika,Multimedia,Maluku,Tidak,1100000,90000,Sepeda,Ya,Lenovo,Tidak,3.1,3.7,3.2,3.3,40,Tidak,Tidak,4,5,Tidak,3,57,0,Ya,Tidak,41,180,3.33,Tidak
+148,Roy Clay,Pria,22,Informatika,Jaringan,Manado,Ya,1200000,150000,Sepeda,Ya,Dell,Tidak,3.6,3.6,3.4,3.8,93,Ya,Ya,1,2,Tidak,2,113,0,Tidak,Tidak,37,149,3.6,Tidak
+149,Clayton Lynn,Pria,22,Informatika,Pemrograman,Bandung,Ya,800000,170000,Motor,Ya,Macbook,Tidak,4,3.4,3.4,3.8,85,Tidak,Tidak,3,2,Tidak,1,106,3,Tidak,Tidak,33,161,3.65,Ya
+150,Johnny Flores,Pria,24,Informatika,Pemrograman,Yogyakarta,Tidak,400000,50000,Sepeda,Ya,MacBook,Ya,3.3,3.8,3.3,3.3,42,Tidak,Tidak,7,3,Tidak,3,63,0,Tidak,Tidak,38,164,3.43,Tidak
